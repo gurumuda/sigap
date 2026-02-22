@@ -1,13 +1,14 @@
 {
     "namaAplikasi": "sigap",
-    "versi": "2.7",
+    "versi": "2.7.1",
     "versidb": "2.7",
-    "rilis": "2026-02-22",
+    "rilis": "2026-02-23",
     "log": [
         "- 2.5 Perbaikan unduh profil guru",
         "- 2.7 Perbaikan jumlah tidak masuk dash. siswa",
         "- 2.7 Perbaikan alur update aplikasi",
-        "- 2.7 Perubahan server update aplikasi"
+        "- 2.7 Perubahan server update aplikasi",
+        "- 2.7.1 Perbaikan form tanggapan curhat"
     ],
     "logAdd": [
         "- 2.6 Rekap jurnal di wali kelas",
@@ -30,7 +31,8 @@
         "2.3": "2.4",
         "2.4": "2.5",
         "2.5": "2.6",
-        "2.6": "2.7"
+        "2.6": "2.7",
+        "2.7": "2.7.2"
     },
     "dbHistory": {
         "2.0": "2.1",
