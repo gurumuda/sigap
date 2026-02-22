@@ -1,0 +1,45 @@
+{
+    "namaAplikasi": "sigap",
+    "versi": "2.6",
+    "versidb": "2.6",
+    "rilis": "2026-02-16",
+    "log": [
+        "- 2.3 Perbaikan input jurnal beribadah",
+        "- 2.4 Perbaikan unduh jurnal beribadah PD",
+        "- 2.5 Perbaikan unduh profil guru"
+    ],
+    "logAdd": [
+        "- 2.3 Rekap jurnal beribadah",
+        "- 2.3 Fungsi ubah agama dari admin",
+        "- 2.4 Rekap jurnal olahraga",
+        "- 2.5 Rekap jurnal makan bergizi",
+        "- 2.5 Rekap jurnal gemar belajar",
+        "- 2.5 Rekap jurnal bermasyarakat",
+        "- 2.5 Rekap jurnal tidur cepat",
+        "- 2.6 Rekap jurnal di wali kelas"
+    ],
+    "history": {
+        "1.4": "1.5",
+        "1.5": "1.5.1",
+        "1.5.1": "1.5.2",
+        "1.5.2": "1.6",
+        "1.6": "1.7",
+        "1.7": "1.8",
+        "1.8": "1.9",
+        "1.9": "2.0",
+        "2.0": "2.1",
+        "2.1": "2.2",
+        "2.2": "2.3",
+        "2.3": "2.4",
+        "2.4": "2.5",
+        "2.5": "2.6"
+    },
+    "dbHistory": {
+        "2.0": "2.1",
+        "2.1": "2.2",
+        "2.2": "2.3",
+        "2.3": "2.4",
+        "2.4": "2.5",
+        "2.5": "2.6"
+    }
+}
