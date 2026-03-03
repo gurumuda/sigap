@@ -1,20 +1,14 @@
 {
     "namaAplikasi": "sigap",
-    "versi": "2.7.1",
-    "versidb": "2.7",
-    "rilis": "2026-02-23",
+    "versi": "2.8",
+    "versidb": "2.8",
+    "rilis": "2026-03-04",
     "log": [
-        "- 2.5 Perbaikan unduh profil guru",
-        "- 2.7 Perbaikan jumlah tidak masuk dash. siswa",
-        "- 2.7 Perbaikan alur update aplikasi",
-        "- 2.7 Perubahan server update aplikasi",
-        "- 2.7.1 Perbaikan form tanggapan curhat"
+        "- 2.8 Perubahan urutan tampil data semuaJurnal",
+        "- 2.8 Perubahan menu update versi"
     ],
     "logAdd": [
-        "- 2.6 Rekap jurnal di wali kelas",
-        "- 2.7 Rekap semua jurnal G7KAIH",
-        "- 2.7 Opsi display (gambar/jadwal)",
-        "- 2.7 Respon curhat siswa"
+        "- 2.8 Tambah fungsi ubah teks notifikasi whatsapp"
     ],
     "history": {
         "1.4": "1.5",
@@ -32,7 +26,8 @@
         "2.4": "2.5",
         "2.5": "2.6",
         "2.6": "2.7",
-        "2.7": "2.7.1"
+        "2.7": "2.7.1",
+        "2.7.1": "2.8"
     },
     "dbHistory": {
         "2.0": "2.1",
@@ -41,6 +36,7 @@
         "2.3": "2.4",
         "2.4": "2.5",
         "2.5": "2.6",
-        "2.6": "2.7"
+        "2.6": "2.7",
+        "2.7": "2.8"
     }
 }
