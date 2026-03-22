@@ -1,15 +1,15 @@
 {
     "namaAplikasi": "sigap",
-    "versi": "2.8.1",
-    "versidb": "2.8",
-    "rilis": "2026-03-10",
+    "versi": "2.9",
+    "versidb": "2.9",
+    "rilis": "2026-03-22",
     "log": [
-        "- 2.8 Perubahan urutan tampil data semuaJurnal",
-        "- 2.8 Perubahan menu update versi",
-        "- 2.8.1 Perbaikan bug update API"
+        "- 2.9 Perbaikan download rekap scan"
     ],
     "logAdd": [
-        "- 2.8 Tambah fungsi ubah teks notifikasi whatsapp"
+        "- 2.9 Tambah cetak kartu PTK",
+        "- 2.9 Tambah scan kehadiran PTK",
+        "- 2.9 Tambah fungsi generate deskripsi G7KAIH"
     ],
     "history": {
         "1.4": "1.5",
@@ -29,7 +29,8 @@
         "2.6": "2.7",
         "2.7": "2.7.1",
         "2.7.1": "2.8",
-        "2.8": "2.8.1"
+        "2.8": "2.8.1",
+        "2.8.1": "2.9"
     },
     "dbHistory": {
         "2.0": "2.1",
@@ -39,6 +40,7 @@
         "2.4": "2.5",
         "2.5": "2.6",
         "2.6": "2.7",
-        "2.7": "2.8"
+        "2.7": "2.8",
+        "2.8": "2.9"
     }
 }
