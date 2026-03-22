@@ -9,7 +9,8 @@
     "logAdd": [
         "- 2.9 Tambah cetak kartu PTK",
         "- 2.9 Tambah scan kehadiran PTK",
-        "- 2.9 Tambah fungsi generate deskripsi G7KAIH"
+        "- 2.9 Tambah fungsi generate deskripsi G7KAIH",
+        "- 2.9 Tambah fungsi input pelanggaran masal"
     ],
     "history": {
         "1.4": "1.5",
