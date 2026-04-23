@@ -1,18 +1,21 @@
 {
     "namaAplikasi": "sigap",
-    "versi": "3.0",
-    "versidb": "3.0",
-    "rilis": "2026-04-03",
+    "versi": "3.1",
+    "versidb": "3.1",
+    "rilis": "2026-04-23",
     "log": [
         "- 2.9 Perbaikan download rekap scan",
-        "- 3.0 Perbaikan cetak kartu siswa"
+        "- 3.0 Perbaikan cetak kartu siswa",
+        "- 3.1 Perbaikan unduh siswa - excel"
     ],
     "logAdd": [
         "- 2.9 Tambah cetak kartu PTK",
         "- 2.9 Tambah scan kehadiran PTK",
         "- 2.9 Tambah generate deskripsi G7KAIH",
         "- 2.9 Tambah fungsi input pelanggaran masal",
-        "- 3.0 Tambah fungsi integrasi module RFID"
+        "- 3.0 Tambah fungsi integrasi module RFID",
+        "- 3.1 Tambah manajemen alat scan RFID",
+        "- 3.1 Tambah template kartu pelajar"
     ],
     "history": {
         "1.4": "1.5",
@@ -34,7 +37,8 @@
         "2.7.1": "2.8",
         "2.8": "2.8.1",
         "2.8.1": "2.9",
-        "2.9": "3.0"
+        "2.9": "3.0",
+        "3.0": "3.1"
     },
     "dbHistory": {
         "2.0": "2.1",
@@ -46,6 +50,7 @@
         "2.6": "2.7",
         "2.7": "2.8",
         "2.8": "2.9",
-        "2.9": "3.0"
+        "2.9": "3.0",
+        "3.0": "3.1"
     }
 }
